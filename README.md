@@ -1,2 +1,2 @@
 # Chatbot-mini
-An AI tool
+An AI tool to improve productivity
